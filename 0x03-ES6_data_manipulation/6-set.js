@@ -6,4 +6,3 @@ export default function setFromArray(arr) {
 
   return set;
 }
-
